@@ -1,0 +1,80 @@
+{
+    "send": "Envoyez",
+    "b_emails": "De meilleurs e-mails",
+    "right_place": "C'est le bon endroit pour créer votre liste d'e-mails et envoyer des e-mails programmés avec des modèles sympas",
+    "get_started": "Commencez",
+
+    "about": "À propos",
+    "contact": "Nous contacter",
+    "dashboard": "Tableau de bord",
+    "login": "Connexion",
+    "logout": "Se déconnecter",
+
+    "services_title": ["Nos", "Services"],
+    "many_services": "Il existe de nombreux services avec lesquels nous pouvons vous aider",
+    "lists_s": "Listes d'e-mails",
+    "lists_services": "Vous pouvez créer plusieurs listes pour plusieurs expéditeurs d'e-mails avec la propriété de marquage",
+    "schedule_s": "Planifier des e-mails",
+    "schedule_services": "Nous nous occupons de planifier votre liste de diffusion avec la fréquence souhaitée pour toujours",
+    "templates_s": "Modèles de création",
+    "templates_services": "Choisissez un modèle par défaut, personnalisez-le ou créez le vôtre avec HTML/CSS",
+
+    "small_about": "Laramiler est un service qui peut vous aider à stocker et à créer une liste d'e-mails, et à créer des modèles sympas qui répondent à vos besoins, à les envoyer ou à planifier une boucle d'envoi",
+    "read": "Lire la suite",
+    "links": "Liens",
+
+    "about_title": ["À propos", "de nous"],
+    "about_t": "Nous sommes Laramailer",
+    "about_text1": "Laramailer est un service qui peut vous aider à stocker et à créer une liste de diffusion, et à créer des modèles sympas qui répondent à vos besoins et à envoyer facilement des modèles générés à vos clients, immédiatement ou à créer un planificateur qui envoie quotidiennement ou deux fois par jour ou mensuellement ou deux fois par mois ou même annuel.",
+    "about_text2": "Si vous êtes coincé quelque part ou si vous avez des questions, vous pouvez vérifier",
+    "about_text3": "qui peuvent vous aider et répondre aux questions les plus courantes qui se présentent à vous. Ou vous pouvez envoyer un message dans",
+
+    "contact_title1": "Entrer en contact",
+    "full_name": "Nom et prénom",
+    "name": "le nom",
+    "subject": "Sujet",
+    "send_m": "Envoyer le message",
+    "contact_title2": "Entrons en contact",
+    "contact_title3": "Nous sommes ouverts à toute suggestion ou simplement pour discuter",
+
+    "email_list": "Liste des e-mails",
+    "doc_email_list": "La première chose dont vous avez besoin est une liste de diffusion, la création d'une liste de diffusion n'est pas un gros problème, il vous suffit de vous connecter, d'accéder à votre tableau de bord, à la section des listes de diffusion et de cliquer sur le bouton \"Créer une liste\", vous devez la nommer et avec un petit la description sera meilleure. Avant de supprimer une liste de diffusion, assurez-vous qu'elle n'est pas jointe à un e-mail, car elle sera mise en pause.",
+    "template": "Modèle",
+    "doc_email_temp1": "Une autre étape difficile consiste à créer un modèle. Dans la section des modèles, vous avez un modèle par défaut que vous pouvez modifier pour vos propres raisons.",
+    "doc_email_temp2": "Pour mettre à jour un modèle, vous avez des onglets dans la page de mise à jour du modèle. Le premier est pour l'aperçu, le second vous permet de mettre à jour les images dans les modèles. Le troisième onglet sert à mettre à jour le texte et les liens dans le modèle et les modifications peuvent être vues après avoir enregistré les modifications en cliquant sur \"Enregistrer les modifications\" en bas de la page.",
+    "doc_email_temp3": "Si vous êtes développeur ou avez des connaissances de base sur le dernier onglet HTML/CSS, vous trouverez le code html de votre modèle, mais vous devez garder à l'esprit que le css en ligne est très recommandé pour les modèles d'e-mails.",
+
+    "mailer": "Expéditeurs",
+    "doc_mailer1": "Après avoir un modèle et une liste de diffusion, il est temps de créer un mailer. Vous avez plusieurs choix, vous pouvez créer un expéditeur programmé qui envoie le modèle sélectionné aux e-mails de la liste sélectionnée, vous pouvez configurer une fréquence quotidienne, biquotidienne, hebdomadaire, bimensuelle et annuelle.",
+    "doc_mailer2": "Vous pouvez également créer un mailer qui envoie une fois à l'heure souhaitée. et il sera enregistré dans votre tableau de bord pour le renvoyer à tout moment.",
+    "doc_mailer3": "Gardez à l'esprit que dans un modèle ou une liste de diffusion jointe à l'expéditeur a été supprimé, l'expéditeur sera arrêté et ne pourra pas être envoyé.",
+    "doc_mailer4": "Et vous pouvez définir un e-mail de réponse, c'est l'e-mail de votre compte par défaut, et le nom de l'expéditeur est votre nom complet dans les paramètres du compte.",
+    
+    "freebies": "Cadeaux",
+    "doc_freebie1": "Les cadeaux sont un excellent outil pour développer votre liste de diffusion, partagez simplement une chose géniale (guid, livre, démo ...) avec d'autres personnes intéressées. Un lien accessible sera fourni après la création du billet de faveur et pour télécharger le billet de faveur, un e-mail valide est nécessaire dans l'e-mail ajouté à la liste d'e-mails sélectionnée lors de la création automatiquement.",
+    "doc_freebie2": "si dans certains cas, la liste de diffusion sélectionnée a été supprimée si un nouveau courrier électronique arrive, une nouvelle liste sera créée automatiquement et ajoutera ce courrier électronique.",
+    "doc_freebie3": "Et si vous avez d'autres suggestions, veuillez envoyer un message à l'administration dans",
+
+    "email_username": "E-mail ou nom d'utilisateur",
+    "password": "Mot de passe",
+    "dont_have_account": "Vous n'avez pas de compte ? S'inscrire",
+    "reset_pass": "Réinitialiser le mot de passe",
+    "resend_verification": "Renvoyer l'e-mail de vérification",
+    "login_text": "Bienvenue! Connectez-vous à votre compte, profitez-en !",
+    "sign_in": "Se connecter",
+
+    "send_reset": "Envoyer le lien",
+    "go_login": "Revenir à la connexion",
+    "reset_text": "Mot de passe oublié? Pas de problème, nous pouvons envoyer un lien de réinitialisation du mot de passe par e-mail",
+
+    "registration": "Inscription",
+    "username": "Nom d'utilisateur",
+    "password_confirmation": "Confirmation mot de passe",
+    "sign_up": "S'inscrire",
+    "already_have_account": "Vous avez déjà un compte ? S'identifier",
+    "register_text": "Vous êtes à une étape avant de faire partie de ce service. Grandir plus vite, mieux, plus facilement",
+    "email_verification_text": "Lien de vérification expiré ? Pas de problème, nous pouvons en renvoyer un nouveau. Vérifiez votre adresse e-mail et profitez",
+
+    "new_pass": "Nouveau mot de passe",
+    "confirm_new_pass": "Confirmer le nouveau mot de passe"
+}

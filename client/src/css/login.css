@@ -1,0 +1,72 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body, html, #root{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.login-container {
+	height: 100%;
+	background: url(../images/background.jpg) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	margin: auto;
+}
+#main-wrapper{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 10px;
+}
+
+.account-block {
+    padding: 0;
+    background-image: url(../images/login-slide.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+}
+.account-block .overlay {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.account-block .account-testimonial {
+    /* text-align: center; */
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0 1.75rem;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+}
+.account-block .account-testimonial h4::after{
+	content:" "; 
+	width:100px; 
+	height:5px; 
+	background:#FFFFFF; 
+	display:block; 
+	margin-top:20px; 
+	border-radius:3px;
+}
+.text-theme {
+    color: #5369f8 !important;
+}
+.form-group .form-control{
+	border-radius: 0;
+	box-shadow: 0 0 24px rgba(91, 94, 222, 0.16);
+	font-size: 13px;
+	/* padding: 5px 20px; */
+}

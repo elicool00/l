@@ -1,0 +1,80 @@
+{
+    "send": "Send",
+    "b_emails": "Better Emails",
+    "right_place": "This is the right place to build your email list and send scheduled email with cool templates",
+    "get_started": "Get started",
+
+    "about": "About",
+    "contact": "Contact us",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout",
+    
+    "services_title": ["Our", "Services"],
+    "many_services": "There are many services that we can help with",
+    "lists_s": "Email lists",
+    "lists_services": "You can build multi list for multi email senders with tagging property",
+    "schedule_s": "Schedule emails",
+    "schedule_services": "We take care of scheduling your email list with desired frequency forever",
+    "templates_s": "Creative templates",
+    "templates_services": "Choose a default template, customize it, or build your own with HTML/CSS",
+
+    "small_about": "Laramiler is a service that can help you store and build an email list, and create cool templates that fits your needs, send it or schedule a loop mailers",
+    "read": "Read more",
+    "links": "Links",
+
+    "about_title": ["About", "Us"],
+    "about_t": "We Are Laramailer",
+    "about_text1": "Laramailer is a service that can help you store and build an email list, and create cool templates that fits your needs and easly send generated templates to your clients, immedialtly or create a scheduler that sends daily or twice daily or monthly or twice monthly or even yearly.",
+    "about_text2": "If you are stuck in somewhere or have some questions you can check",
+    "about_text3": " that can help you and answer the most common questions that come to you. Or you can send a message in",
+
+    "contact_title1": "Get in touch",
+    "full_name": "Full Name",
+    "name": "Name",
+    "subject": "Subject",
+    "send_m": "Send Message",
+    "contact_title2": "Let's get in touch",
+    "contact_title3": "We're open for any suggestion or just to have a chat",
+
+    "email_list": "Email list",
+    "doc_email_list": "First thing you need is an email list, creating email list is not a big deal you just need to log in, access you dashboard, email lists section and click \"Create list\" button, you need to name it and with a small description will be better. Before deleting an email list make sure not attached with a mailer because it will be paused.",
+    "template": "Template",
+    "doc_email_temp1": "Another challenging step it to create a template, in template section you have default template which you can edit for you own reasons.",
+    "doc_email_temp2": "For update a template you have there tabs in update template page. First one is for preview, second you can update images in templates. Third tab is for updatingtext and links in template and changes can be seen after saving changes bu clicking \"Save changes\" in buttom of page.",
+    "doc_email_temp3": "If you are developer or have basic knowledge about HTML/CSS last tab is for you, you find html code of your template, but you must keep in mind that inline css is very recommended for email templates.",
+
+    "mailer": "Mailers",
+    "doc_mailer1": "After having a template and email list, it's time to create a mailer. You have multipe choices, you can create scheduled mailer that sends template selected to emails in selected list, you can setup a daily, twice daily, weekly, twice monthly and yearly frequencies.",
+    "doc_mailer2": "You can also create a mailer that sends once at desired time. and it will be saved in your dashboard to resend it anytime you want.",
+    "doc_mailer3": "Keep in mind that in a template or email list that is attached to mailer has been deleted the mailer will be stopped and cannot be sent.",
+    "doc_mailer4": "And you can set reply email, it's your account email by default, and from name is you full name in account settings.",
+    
+    "freebies": "Freebies",
+    "doc_freebie1": "Freebies are greate tool for growing you email list, just share a greate thing (guid, book, demo ...) with other people insterested. A accessible link will be provided after freebie creation and to download the freebie a valid email is needed in the email append to email list selected at creation automatically.",
+    "doc_freebie2": "if in some how email list selected has been deleted if new email comes a new list will be created automatically and append email.",
+    "doc_freebie3": "And if you have any other suggestion please send a message to administration in",
+
+    "email_username": "Email or username",
+    "password": "Password",
+    "dont_have_account": "Don't have account ? Sign up",
+    "reset_pass": "Reset password",
+    "resend_verification": "Resend verification email",
+    "login_text": "Welcome back mate! Log in to your account, enjoy!",
+    "sign_in": "Sign in",
+
+    "send_reset": "Send reset link",
+    "go_login": "Go back to login",
+    "reset_text": "Forgot your password? No problem, we can email a reset password link",
+
+    "registration": "Registration",
+    "username": "Username",
+    "password_confirmation": "Password confirmation",
+    "sign_up": "Sign up",
+    "already_have_account": "Already have an account ? Sign in",
+    "register_text": "You are one step away before being a part of this service. Grow faster, better, easier",
+    "email_verification_text": "Verification link expired? No problem we can resend new one. Verify your email address and enjoy",
+
+    "new_pass": "New password",
+    "confirm_new_pass": "Confirm new password"
+}

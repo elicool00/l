@@ -1,0 +1,48 @@
+body, html, #root{
+    height: 100%;
+    min-height: 100%;
+    background-color: #F4F3EF;
+}
+.default-templates-container{
+    overflow-x: scroll;
+    white-space: nowrap;
+    display: flex;
+}
+.default-templates-container::-webkit-scrollbar-thumb{
+    background: rgb(168, 168, 168);
+}
+.default-templates-container::-webkit-scrollbar {
+    width: 12px;
+    height: 11px;
+}
+.default-templates-container::-webkit-scrollbar-track {
+    border-radius: 5px;
+}
+.default-templates-container::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+}
+.default-template{
+    padding: 5px;
+    width: 200px;
+    cursor: pointer;
+    color: #888;
+    transition: transform .3s ease-out;
+}
+.default-template a {
+    color: #888;
+}
+.default-template:hover , .default-template:hover a{
+    color: black;
+    transform: translate(0, -5px);
+}
+.default-template:hover .template-thumbnail{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.template-thumbnail{
+    height: 250px;
+    min-width: 100%;
+    margin: 0 auto;
+}
+.preview-container{
+    overflow-x: scroll;
+}
